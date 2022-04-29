@@ -21,6 +21,8 @@ This project allows users to see the status of the race amount, vaccination, and
 (https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties-2021.csv)
 3. Get the data about the race amount in all state today.
 (https://worldpopulationreview.com/states/states-by-race)
+4. Get the data about the total covid-19 cases.
+(https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36/data)
 
 ### Data Structure
 1. Map and Rank: use dataframe to sort the data and get the information.
