@@ -22,6 +22,10 @@ This project allows users to see the status of the race amount, vaccination, and
 3. Get the data about the race amount in all state today.
 (https://worldpopulationreview.com/states/states-by-race)
 
+###Data Structure
+1. Map and Rank: use dataframe to sort the data and get the information.
+2. Percent: use Binary Search to find the information.
+
 
 ### Interaction / Presentation
 - Built the home page.
