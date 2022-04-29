@@ -35,5 +35,7 @@ This project allows users to see the status of the race amount, vaccination, and
 - Plot the U.S map about the user's choose (race, positive case, vaccination).
 - Rank the amount about the user's choose (race, positive case, vaccination).
 
+### Demo link
+https://youtu.be/4YctnFHTmkU
 
 
