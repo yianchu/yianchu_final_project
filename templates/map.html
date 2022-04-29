@@ -1,0 +1,26 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+</head>
+
+<body>
+    <!-- <h1>Enter a 'state' that you want to know (race, vaccination, covid-19 case).</h1> -->
+
+    <form action="/handle_form" method="post">
+        <h1>What is the data you want?</h1>
+        <p>
+            <select name='data_type'>
+                <option value='race'>race</option>
+                <option value='positive_case'>positive case</option>
+                <option value='vaccination'>vaccination</option>
+            </select>
+        </p>
+
+        <input type="submit" value="Submit Form">
+
+    </form>
+</body>
+
+</html>
